@@ -13,7 +13,7 @@ This is a robust **RESTful API** built with **Node.js** and **Express.js**, desi
 - 🗄️ **Database Integration**: Uses MongoDB for storing product and user data.  
 - 🖼️ **File Storage**: Integrates with Supabase for storing and serving product images.  
 
----
+
 
 ## 🚀 Technologies Used
 
