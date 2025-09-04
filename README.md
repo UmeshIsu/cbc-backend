@@ -3,8 +3,6 @@
 Welcome to the backend server for the **Crystal Beauty Clear (CBC)** e-commerce application.  
 This is a robust **RESTful API** built with **Node.js** and **Express.js**, designed to handle product management, user authentication, and data storage.
 
----
-
 ## ✨ Core Functionality
 
 - 🌐 **RESTful API**: A well-structured API for all frontend operations.  
@@ -12,7 +10,6 @@ This is a robust **RESTful API** built with **Node.js** and **Express.js**, desi
 - 📦 **CRUD Operations**: Full Create, Read, Update, and Delete functionality for products.  
 - 🗄️ **Database Integration**: Uses MongoDB for storing product and user data.  
 - 🖼️ **File Storage**: Integrates with Supabase for storing and serving product images.  
-
 
 
 ## 🚀 Technologies Used
@@ -25,8 +22,6 @@ This is a robust **RESTful API** built with **Node.js** and **Express.js**, desi
 | **Mongoose** | An ODM library for modeling MongoDB data. |
 | **Supabase** | Used for its powerful object storage solution for images. |
 | **JWT**      | Creates secure access tokens for authentication. |
-
----
 
 ## 🛠️ Getting Started
 
